@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<title>Hi-Res Radio</title>
+<creator>volAV</creator>
+  <trackList>
+    <track>
+      <location>http://stream.440hz-radio.de:8080/440hz.flac.ogg</location>
+      <title>440Hz Radio</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>https://440hz-radio.de/index.php?ID=1</info>
+      <trackNum>1</trackNum>
+      <meta rel="genre">Eclectic/Pop</meta>
+    </track>
+    <track>
+      <location>http://r5.zetcast.net/flac</location>
+      <title>60North Radio</title>
+      <annotation>FLAC, ~1200kbps/48kHz</annotation>
+      <info>https://60north.radio/</info>
+      <trackNum>2</trackNum>
+      <meta rel="genre">Local Radio/Indie Music</meta>
+    </track>
+    <track>
+      <location>http://streams.95bfm.com/stream112</location>
+      <title>95bFM</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>http://95bfm.com/</info>
+      <trackNum>3</trackNum>
+      <meta rel="genre">Alternative Music and News</meta>
+    </track>
+    <track>
+      <location>https://s2.audiostream.hu/bdpstrock_FLAC.m3u</location>
+      <title>BDPST Rock Radio</title>
+      <annotation>FLAC, ~1200kbps/44.1kHz</annotation>
+      <info>https://bdpstrock.hu/</info>
+      <trackNum>4</trackNum>
+      <meta rel="genre">Rock</meta>
+    </track>
+    <track>
+      <location>http://besidefm.ga:8000/stream</location>
+      <title>BesideFM</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>–</info>
+      <trackNum>5</trackNum>
+      <meta rel="genre">Rock and Chillout</meta>
+    </track>
+    <track>
+      <location>http://cityradio.ddns.net:8000/cityradio48flac</location>
+      <title>City Radio</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>http://www.cityradio.cl/</info>
+      <trackNum>6</trackNum>
+      <meta rel="genre">Jazz, smooth jazz and crossover jazz</meta>
+    </track>
+    <track>
+      <location>http://amp.cesnet.cz:8000/cro3.flac</location>
+      <title>Czech Radio ČRo Vltava</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>https://vltava.rozhlas.cz/</info>
+      <trackNum>7</trackNum>
+      <meta rel="genre">Culture</meta>
+    </track>
+    <track>
+      <location>http://amp.cesnet.cz:8000/cro-d-dur.flac</location>
+      <title>Czech Radio ČRo D-dur</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>https://d-dur.rozhlas.cz/</info>
+      <trackNum>8</trackNum>
+      <meta rel="genre">Classical Music</meta>
+    </track>
+    <track>
+      <location>http://amp.cesnet.cz:8000/cro-jazz.flac</location>
+      <title>Czech Radio ČRo Jazz</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>https://jazz.rozhlas.cz/o-stanici-5674994</info>
+      <trackNum>9</trackNum>
+      <meta rel="genre">Jazz</meta>
+    </track>
+    <track>
+      <location>http://amp.cesnet.cz:8000/cro-radio-wave.flac</location>
+      <title>Czech Radio ČRo Radio Wave</title>
+      <annotation>FLAC, ~1000kbps/48kHz</annotation>
+      <info>https://wave.rozhlas.cz/</info>
+      <trackNum>10</trackNum>
+      <meta rel="genre">Young listeners</meta>
+    </track>
+    <track>
+      <location>http://chillout.zone/chillout_plus</location>
+      <title>Chill Out Zone Plus</title>
+      <annotation>FLAC, 1000kbps/44.1kHz</annotation>
+      <info>https://chillout.zone/radio/chillout_plus</info>
+      <trackNum>11</trackNum>
+      <meta rel="genre">Chilled Out Dance</meta>
+    </track>
+    <track>
+      <location>https://dancewave.online/dance.flac.ogg.m3u</location>
+      <title>Dance Wave</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://dancewave.online/</info>
+      <trackNum>12</trackNum>
+      <meta rel="genre">Dance, Electronic</meta>
+    </track>
+    <track>
+      <location>https://retro.dancewave.online/retrodance.flac.ogg.m3u</location>
+      <title>Dance Wave Retro!</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://dancewave.online/</info>
+      <trackNum>13</trackNum>
+      <meta rel="genre">Dance – 90’s, Eurodance, Retro and Oldies</meta>
+    </track>
+    <track>
+      <location>https://danubiusradio.hu/danubius_HiFi.m3u</location>
+      <title>Danubius Radio</title>
+      <annotation>FLAC, ~1200kbps/44.1kHz</annotation>
+      <info>https://danubiusradio.hu/</info>
+      <trackNum>14</trackNum>
+      <meta rel="genre">80’s, 90’s, 2000’s Hits</meta>
+    </track>
+    <track>
+      <location>https://easyradio.bg/m3u/easyradio.bg-flac.m3u</location>
+      <title>EasyRadio</title>
+      <annotation>FLAC, 1000kbps/44.1kHz</annotation>
+      <info>https://easyradio.bg/</info>
+      <trackNum>15</trackNum>
+      <meta rel="genre">Easy listening pop/rock</meta>
+    </track>
+    <track>
+      <location>http://stream.freemusicradio.nl:8100/stream.oga</location>
+      <title>Free Music Radio</title>
+      <annotation>FLAC, 2000kbps, 48kHz</annotation>
+      <info>https://freemusicradio.nl/</info>
+      <trackNum>16</trackNum>
+      <meta rel="genre">Top 40 Hits</meta>
+    </track>
+    <track>
+      <location>https://frequence3.net-radio.fr/frequence3.flac</location>
+      <title>Fréquence 3</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://www.frequence3.fr/</info>
+      <trackNum>17</trackNum>
+      <meta rel="genre">French local radio</meta>
+    </track>
+    <track>
+      <location>https://frequence3.net-radio.fr/frequence3dance.flac</location>
+      <title>Fréquence 3 Dance</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://www.frequence3.fr/</info>
+      <trackNum>18</trackNum>
+      <meta rel="genre">House and Dance</meta>
+    </track>
+    <track>
+      <location>https://frequence3.net-radio.fr/frequence3gold.flac</location>
+      <title>Fréquence 3 Gold</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://www.frequence3.fr/</info>
+      <trackNum>19</trackNum>
+      <meta rel="genre">80s and 90s hits</meta>
+    </track>
+    <track>
+      <location>https://frequence3.net-radio.fr/frequence3urban.flac</location>
+      <title>Fréquence 3 Urban</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://www.frequence3.fr/</info>
+      <trackNum>20</trackNum>
+      <meta rel="genre">Hip Hop, Rap and R’n’B</meta>
+    </track>
+    <track>
+      <location>https://frequence3.net-radio.fr/frequence3world.flac</location>
+      <title>Fréquence 3 World</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://www.frequence3.fr/</info>
+      <trackNum>21</trackNum>
+      <meta rel="genre">World Music</meta>
+    </track>
+    <track>
+      <location>http://ice2.ikoula.net-radio.fr/h2oradio.flac</location>
+      <title>H2O</title>
+      <annotation>FLAC, 1150kbps/48kHz</annotation>
+      <info>http://www.h2oradio.fr/index.php</info>
+      <trackNum>22</trackNum>
+      <meta rel="genre">Local news, info and music</meta>
+    </track>
+    <track>
+      <location>http://mscp2.live-streams.nl:8100/flac.flac</location>
+      <title>Hi On Line Radio</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://www.hionline.eu/</info>
+      <trackNum>23</trackNum>
+      <meta rel="genre">Pop</meta>
+    </track>
+    <track>
+      <location>https://stream.cor.insanityradio.com/insanity.flac</location>
+      <title>Insanity Radio</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://insanityradio.com/</info>
+      <trackNum>24</trackNum>
+      <meta rel="genre">Community Radio</meta>
+    </track>
+    <track>
+      <location>https://secure.live-streams.nl/flac.flac</location>
+      <title>Intense Radio</title>
+      <annotation>FLAC, 1411kbps/44.1kHz</annotation>
+      <info>https://www.intenseradio.net/</info>
+      <trackNum>25</trackNum>
+      <meta rel="genre">Electronic Dance Music</meta>
+    </track>
+    <track>
+      <location>https://maggie.torontocast.com:8076/flac</location>
+      <title>JB Radio-2</title>
+      <annotation>FLAC, ~1200kbps, 48kHz</annotation>
+      <info>https://jb-radio.net/</info>
+      <trackNum>26</trackNum>
+      <meta rel="genre">Rock and Blues</meta>
+    </track>
+    <track>
+      <location>http://85.25.210.245:9999/flac1</location>
+      <title>JB Radio-2 (no metadata)</title>
+      <annotation>FLAC, ~1200kbps, 48kHz</annotation>
+      <info>https://jb-radio.net/</info>
+      <trackNum>27</trackNum>
+      <meta rel="genre">Rock and Blues</meta>
+    </track>
+    <track>
+      <location>http://joyhits.online/joyhits.flac.ogg</location>
+      <title>Joy Hits</title>
+      <annotation>FLAC, ~1000kbps, 44.1kHz</annotation>
+      <info>http://joyhits.online/index.html</info>
+      <trackNum>28</trackNum>
+      <meta rel="genre">Pop and Dance</meta>
+    </track>
+    <track>
+      <location>http://stream.stormtx.co.uk:8009/juice-lossless</location>
+      <title>Juice 1038</title>
+      <annotation>FLAC, ~1000kbps, 48kHz</annotation>
+      <info>https://www.juiceonair.com/</info>
+      <trackNum>29</trackNum>
+      <meta rel="genre">Local Radio/Dance</meta>
+    </track>
+    <track>
+      <location>http://gnoenet.nl/radio/8000/luciferflac.mp3</location>
+      <title>Lucifer FM</title>
+      <annotation>FLAC, ~2000kbps, 48kHz</annotation>
+      <info>http://luciferfm.nl/</info>
+      <trackNum>30</trackNum>
+      <meta rel="genre">Pop Music – 70s and 80s Hits</meta>
+    </track>
+    <track>
+      <location>http://mp3.magic-radio.net/flac</location>
+      <title>Magic Radio</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://magic-radio.net/</info>
+      <trackNum>31</trackNum>
+      <meta rel="genre">Oldies Hits</meta>
+    </track>
+    <track>
+      <location>http://maxxima.mine.nu:8000/maxx.ogg</location>
+      <title>MaXXima</title>
+      <annotation>FLAC, ~1000kbps, 48kHz</annotation>
+      <info>https://www.maxxima.org/</info>
+      <trackNum>32</trackNum>
+      <meta rel="genre">Electronic</meta>
+    </track>
+    <track>
+      <location>http://server9.streamserver24.com:18900/motherearth</location>
+      <title>Mother Earth Radio</title>
+      <annotation>FLAC, ~2700kbps/96kHz</annotation>
+      <info>https://motherearthradio.de/</info>
+      <trackNum>33</trackNum>
+      <meta rel="genre">Eclectic</meta>
+    </track>
+    <track>
+      <location>http://server9.streamserver24.com:18920/motherearth.instrumental</location>
+      <title>Mother Earth Instrumental</title>
+      <annotation>FLAC, -2800kbps/96kHz</annotation>
+      <info>https://motherearthradio.de/</info>
+      <trackNum>34</trackNum>
+      <meta rel="genre">Instrumental</meta>
+    </track>
+    <track>
+      <location>http://server9.streamserver24.com:18910/motherearth.klassik</location>
+      <title>Mother Earth Klassik</title>
+      <annotation>FLAC, -2800kbps/96kHz</annotation>
+      <info>https://motherearthradio.de/</info>
+      <trackNum>35</trackNum>
+      <meta rel="genre">Classical</meta>
+    </track>
+    <track>
+      <location>https://mscp3.live-streams.nl:8252/class-flac.flac</location>
+      <title>Naim Classical</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://www.naimaudio.com/</info>
+      <trackNum>36</trackNum>
+      <meta rel="genre">Classical</meta>
+    </track>
+    <track>
+      <location>https://mscp3.live-streams.nl:8342/jazz-flac.flac</location>
+      <title>Naim Jazz</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://www.naimaudio.com/</info>
+      <trackNum>37</trackNum>
+      <meta rel="genre">Jazz</meta>
+    </track>
+    <track>
+      <location>https://mscp3.live-streams.nl:8362/flac.flac</location>
+      <title>Naim Radio</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://www.naimaudio.com/</info>
+      <trackNum>38</trackNum>
+      <meta rel="genre">Various</meta>
+    </track>
+    <track>
+      <location>http://mscp4.live-streams.nl:8140/flac.ogg</location>
+      <title>PureClassix Radio</title>
+      <annotation>FLAC, ~1200kbps/48kHz</annotation>
+      <info>https://www.pureclassix.com/</info>
+      <trackNum>39</trackNum>
+      <meta rel="genre">80s Hits</meta>
+    </track>
+    <track>
+      <location>http://vps.radioduepuntozero.it:8000/stream.ogg.m3u</location>
+      <title>Radio 2.0</title>
+      <annotation>FLAC, 1200kbps/44.1kHz</annotation>
+      <info>https://www.radioduepuntozero.it/</info>
+      <trackNum>40</trackNum>
+      <meta rel="genre">Valli di Bergamo (Italy) local radio</meta>
+    </track>
+    <track>
+      <location>http://radio.audiomastering.lt:8000/pure</location>
+      <title>Radio Audiomastering</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>http://radio.audiomastering.lt/</info>
+      <trackNum>41</trackNum>
+      <meta rel="genre">Dance/Electronic</meta>
+    </track>
+    <track>
+      <location>https://admin.biasradio.com/radio/8000/flac</location>
+      <title>Radio Bias</title>
+      <annotation>FLAC, ~1418kbps/48kHz</annotation>
+      <info>https://biasradio.com</info>
+      <trackNum>42</trackNum>
+      <meta rel="genre">70’s-2000’s, Pop, Rock, New Wave, Euro, Italo Disco music</meta>
+    </track>
+    <track>
+      <location>http://streams.radiomast.io:80/radioblues-flac</location>
+      <title>Radio BluesFlac</title>
+      <annotation>Ogg FLAC, 1500kbps/44.1kHz</annotation>
+      <info>http://bluesflac.com/</info>
+      <trackNum>43</trackNum>
+      <meta rel="genre">Blues</meta>
+    </track>
+    <track>
+      <location>https://radio3.radio-calico.com:8443/calico</location>
+      <title>Radio Calico</title>
+      <annotation>FLAC, 1700kbps/48kHz/24-bit</annotation>
+      <info>https://radio-calico.com/</info>
+      <trackNum>44</trackNum>
+      <meta rel="genre">Rock/Pop</meta>
+    </track>
+    <track>
+      <location>http://radioip.no:443/flac</location>
+      <title>Radio Haugaland</title>
+      <annotation>FLAC, 1800kbps/48kHz</annotation>
+      <info>https://radioh.no/</info>
+      <trackNum>45</trackNum>
+      <meta rel="genre">Local Radio</meta>
+    </track>
+    <track>
+      <location>https://radiojuventus.hu/juventus_FLAC.m3u</location>
+      <title>Radio Juventus</title>
+      <annotation>FLAC, 1200kbps/44.1kHz</annotation>
+      <info>https://radiojuventus.hu/</info>
+      <trackNum>46</trackNum>
+      <meta rel="genre">Chillout Pop</meta>
+    </track>
+    <track>
+      <location>http://kemoniastreaming2.net:8060/stream</location>
+      <title>Radio Kemonia</title>
+      <annotation>FLAC, 1200kbps/44.1kHz</annotation>
+      <info>https://radiokemonia.it/</info>
+      <trackNum>47</trackNum>
+      <meta rel="genre">80s and 90s Hits</meta>
+    </track>
+    <track>
+      <location>http://stream.radioparadise.com/flac</location>
+      <title>Radio Paradise Main Mix</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://radioparadise.com/home</info>
+      <trackNum>48</trackNum>
+      <meta rel="genre">Eclectic</meta>
+    </track>
+    <track>
+      <location>http://stream.radioparadise.com/mellow-flac</location>
+      <title>Radio Paradise Mellow Mix</title>
+      <annotation>FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://radioparadise.com/home</info>
+      <trackNum>49</trackNum>
+      <meta rel="genre">Mellow Rock</meta>
+    </track>
+    <track>
+      <location>http://stream.radioparadise.com/rock-flac</location>
+      <title>Radio Paradise Rock Mix</title>
+      <annotation>FLAC, 1000kbps/44.1kHz></annotation>
+      <info>https://radioparadise.com/home</info>
+      <trackNum>50</trackNum>
+      <meta rel="genre">Rock</meta>
+    </track>
+    <track>
+      <location>http://stream.radioparadise.com/eclectic-flac</location>
+      <title>Radio Paradise World/Eclectic Mix</title>
+      <annotation>FLAC, 1000kbps/44.1kHz</annotation>
+      <info>https://radioparadise.com/home</info>
+      <trackNum>51</trackNum>
+      <meta rel="genre">World/Eclectic</meta>
+    </track>
+    <track>
+      <location>http://radiosputnik.nl:8002/flac</location>
+      <title>Radio Sputnik</title>
+      <annotation>FLAC, 1200kbps/44.1kHz</annotation>
+      <info>http://www.radiosputnik.nl/</info>
+      <trackNum>52</trackNum>
+      <meta rel="genre">Underground House</meta>
+    </track>
+    <track>
+      <location>https://mp3.radiox.ch/standard.ogg</location>
+      <title>Radio X</title>
+      <annotation>FLAC, 2000kbps/48kHz</annotation>
+      <info>https://radiox.ch/</info>
+      <trackNum>53</trackNum>
+      <meta rel="genre">Local Radio – Basel, Switzerland</meta>
+    </track>
+    <track>
+      <location>https://stream.and-stuff.nl:8443/riverside</location>
+      <title>Riverside Radio</title>
+      <annotation>FLAC, 2000kbps/48kHz</annotation>
+      <info>https://www.riversideradio.nl/</info>
+      <trackNum>54</trackNum>
+      <meta rel="genre">Pop/Rock</meta>
+    </track>
+    <track>
+      <location>http://iradio.fi:8000/klasu.flac</location>
+      <title>Rondo Klasu</title>
+      <annotation>FLAC, 1000kbps/44.1kHz</annotation>
+      <info>https://rondolehti.fi/</info>
+      <trackNum>55</trackNum>
+      <meta rel="genre">Classical Full Works</meta>
+    </track>
+    <track>
+      <location>http://rondo.iradio.fi:8000/klasupro.flac</location>
+      <title>Rondo Klasu Pro</title>
+      <annotation>FLAC, 1000kbps/44.1kHz</annotation>
+      <info>https://rondolehti.fi/</info>
+      <trackNum>56</trackNum>
+      <meta rel="genre">Classical Full Works</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/nota-flac</location>
+      <title>SECTOR Classical</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://sectorradio.ru/nota/</info>
+      <trackNum>57</trackNum>
+      <meta rel="genre">Classical</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/progressive-flac</location>
+      <title>SECTOR Progressive</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>http://sectorradio.com/</info>
+      <trackNum>58</trackNum>
+      <meta rel="genre">Progressive/Electronic</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/space-flac</location>
+      <title>SECTOR Space</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>http://sectorradio.com/space</info>
+      <trackNum>59</trackNum>
+      <meta rel="genre">Electronic</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/geny-flac</location>
+      <title>SECTOR 80s</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>https://sectorradio.ru/geny/</info>
+      <trackNum>60</trackNum>
+      <meta rel="genre">80s</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/next-flac</location>
+      <title>SECTOR 90s</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>http://sectorradio.com/90/</info>
+      <trackNum>61</trackNum>
+      <meta rel="genre">90s</meta>
+    </track>
+    <track>
+      <location>http://89.223.45.5:8000/zed-flac</location>
+      <title>SECTOR 10s</title>
+      <annotation>Ogg FLAC, ~1000kbps/44.1kHz</annotation>
+      <info>http://sectorradio.ru/zed/</info>
+      <trackNum>62</trackNum>
+      <meta rel="genre">10s</meta>
+    </track>
+    <track>
+      <location>http://stream.sing-sing-bis.org:8000/singsingFlacSansMetadata</location>
+      <title>Sing Sing</title>
+      <annotation>FLAC, ~700kbps/44.1kHz</annotation>
+      <info>http://www.sing-sing-bis.org/results.php?kbps=Infinity</info>
+      <trackNum>63</trackNum>
+      <meta rel="genre">Eclectic</meta>
+    </track>
+    <track>
+      <location>http://stream.sing-sing-bis.org:8000/singsingFlac</location>
+      <title>Sing Sing (no metadata)</title>
+      <annotation>FLAC, ~700kbps/44.1kHz</annotation>
+      <info>http://www.sing-sing-bis.org/results.php?kbps=Infinity</info>
+      <trackNum>64</trackNum>
+      <meta rel="genre">Eclectic</meta>
+    </track>
+    <track>
+      <location>http://euk-85965.eukservers.com:8000/soul</location>
+      <title>Soul City FM</title>
+      <annotation>FLAC, ~1419kbps/44.1kHz</annotation>
+      <info>https://www.soulcityfm.com/</info>
+      <trackNum>65</trackNum>
+      <meta rel="genre">Pop Music</meta>
+    </track>
+    <track>
+      <location>http://diffusion.lafrap.fr:8000/sun.flac</location>
+      <title>SUN</title>
+      <annotation>FLAC, 1200kbps/48kHz</annotation>
+      <info>http://www.lesonunique.com/</info>
+      <trackNum>66</trackNum>
+      <meta rel="genre">Local radio</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8160/flac</location>
+      <title>SuperStereo 1 24/96</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>67</trackNum>
+      <meta rel="genre">Yacht Rock</meta>
+    </track>
+    <track>
+      <location>http://ingest-mia.radiomast.io/8a760c25-fb95-4fcb-9c0e-ca0f269a7360</location>
+      <title>SuperStereo 1 24/192</title>
+      <annotation>FLAC, 24-bit/192kHz ~2000kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>68</trackNum>
+      <meta rel="genre">Yacht Rock</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8157/flac</location>
+      <title>SuperStereo 2</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>69</trackNum>
+      <meta rel="genre">50’s, 60’s</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8539/flac</location>
+      <title>SuperStereo 3</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>70</trackNum>
+      <meta rel="genre">80’s</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8030/flac</location>
+      <title>SuperStereo 4</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>71</trackNum>
+      <meta rel="genre">90’s</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8511/canal1</location>
+      <title>SuperStereo 5</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>72</trackNum>
+      <meta rel="genre">Rock</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8157/flac6</location>
+      <title>SuperStereo 6</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>73</trackNum>
+      <meta rel="genre">Instrumental</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8030/flac7</location>
+      <title>SuperStereo 7</title>
+      <annotation>FLAC, 24-bit/96kHz ~1300kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>74</trackNum>
+      <meta rel="genre">Jazz</meta>
+    </track>
+    <track>
+      <location>http://198.204.228.202:8643/SS8</location>
+      <title>SuperStereo 8</title>
+      <annotation>FLAC, 24-bit/96kHz ~1800kbps</annotation>
+      <info>http://www.superstereo24bit.com/</info>
+      <trackNum>75</trackNum>
+      <meta rel="genre">Soul/Ballads</meta>
+    </track>
+    <track>
+      <location>http://thecheese.ddns.net:8004/stream.m3u</location>
+      <title>The Cheese</title>
+      <annotation>FLAC, 1000kbps/48kHz</annotation>
+      <info>http://thecheese.co.nz/</info>
+      <trackNum>76</trackNum>
+      <meta rel="genre">80’s, 90’s, 00’s Hits</meta>
+    </track>
+    <track>
+      <location>http://stream06.dotpoint.nl:8050/xradio.flac</location>
+      <title>XRadio.nl</title>
+      <annotation>FLAC, ~1100kbps/44.1kHz</annotation>
+      <info>https://www.xradio.nl/</info>
+      <trackNum>77</trackNum>
+      <meta rel="genre">Pop</meta>
+    </track>
+    <track>
+      <location>https://zapstream.nl:8443/1</location>
+      <title>Zap! FM</title>
+      <annotation>FLAC, ~1100kbps/48kHz</annotation>
+      <info>https://www.zap.fm/en</info>
+      <trackNum>78</trackNum>
+      <meta rel="genre">Oldies, Pop</meta>
+    </track>
+  </trackList>
+</playlist>
